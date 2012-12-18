@@ -1,4 +1,4 @@
-android-ormlite-extensions
+Android Extensions
 ==========================
 
-Extensions for OrmLite library (Android version)
+Extensions for various stuff.
